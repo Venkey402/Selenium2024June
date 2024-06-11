@@ -1,0 +1,169 @@
+2024-06-10 17:06:47,862 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:06:47,922 [main] INFO BaseClass - Chrome browser window maximised
+2024-06-10 17:06:53,177 [main] INFO BaseClass - Opened urlhttps://demo.guru99.com/v4/
+2024-06-10 17:11:13,187 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:11:13,237 [main] INFO BaseClass - Chrome browser window maximised
+2024-06-10 17:11:17,532 [main] INFO BaseClass - Opened urlhttps://demo.guru99.com/v4/
+2024-06-10 17:11:17,660 [main] INFO BaseClass - User name is set
+2024-06-10 17:11:17,727 [main] INFO BaseClass - Password is set
+2024-06-10 17:11:19,044 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:11:57,210 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:11:57,260 [main] INFO BaseClass - Chrome browser window maximised
+2024-06-10 17:12:01,840 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:12:01,950 [main] INFO BaseClass - User name is set
+2024-06-10 17:12:02,013 [main] INFO BaseClass - Password is set
+2024-06-10 17:12:03,233 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:21:47,755 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:21:47,814 [main] INFO BaseClass - Chrome browser window maximised
+2024-06-10 17:21:52,577 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:21:52,681 [main] INFO BaseClass - User name is set
+2024-06-10 17:21:52,746 [main] INFO BaseClass - Password is set
+2024-06-10 17:21:53,816 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:24:37,315 [main] INFO BaseClass - entered inside firefox
+2024-06-10 17:24:53,963 [main] INFO BaseClass - entered inside firefox
+2024-06-10 17:26:59,327 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:26:59,377 [main] INFO BaseClass - Browser window maximised
+2024-06-10 17:27:03,770 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:27:03,898 [main] INFO BaseClass - User name is set
+2024-06-10 17:27:03,966 [main] INFO BaseClass - Password is set
+2024-06-10 17:27:05,258 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:28:46,569 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:28:46,623 [main] INFO BaseClass - Browser window maximised
+2024-06-10 17:28:47,591 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:28:50,985 [main] INFO BaseClass - User name is set
+2024-06-10 17:28:51,044 [main] INFO BaseClass - Password is set
+2024-06-10 17:28:52,304 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:28:52,309 [main] INFO BaseClass - Guru99 Bank Manager HomePage
+2024-06-10 17:31:00,610 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:31:00,661 [main] INFO BaseClass - Browser window maximised
+2024-06-10 17:31:02,062 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:31:05,106 [main] INFO BaseClass - User name is set
+2024-06-10 17:31:05,167 [main] INFO BaseClass - Password is set
+2024-06-10 17:31:06,534 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:31:06,543 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 17:31:21,217 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:31:21,272 [main] INFO BaseClass - Browser window maximised
+2024-06-10 17:31:26,498 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:31:26,624 [main] INFO BaseClass - User name is set
+2024-06-10 17:31:26,680 [main] INFO BaseClass - Password is set
+2024-06-10 17:31:27,067 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:31:59,717 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:31:59,768 [main] INFO BaseClass - Browser window maximised
+2024-06-10 17:32:05,809 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:32:05,927 [main] INFO BaseClass - User name is set
+2024-06-10 17:32:06,001 [main] INFO BaseClass - Password is set
+2024-06-10 17:32:06,409 [main] INFO BaseClass - Clicked on login button
+2024-06-10 17:42:05,205 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 17:42:05,262 [main] INFO BaseClass - Browser window maximised
+2024-06-10 17:42:10,903 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 17:42:11,020 [main] INFO BaseClass - User name is set
+2024-06-10 17:42:11,090 [main] INFO BaseClass - Password is set
+2024-06-10 17:42:11,492 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:17:10,780 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:17:10,832 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:17:15,267 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:17:15,396 [main] INFO BaseClass - User name is set
+2024-06-10 18:17:15,457 [main] INFO BaseClass - Password is set
+2024-06-10 18:17:15,863 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:17:38,599 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:17:38,653 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:17:42,122 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:17:42,225 [main] INFO BaseClass - User name is set
+2024-06-10 18:17:42,289 [main] INFO BaseClass - Password is set
+2024-06-10 18:17:42,683 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:18:19,236 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:18:19,284 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:18:23,639 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:18:23,748 [main] INFO BaseClass - User name is set
+2024-06-10 18:18:23,816 [main] INFO BaseClass - Password is set
+2024-06-10 18:18:24,213 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:23:12,305 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:23:12,366 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:23:13,780 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:23:19,052 [main] INFO BaseClass - User name is set
+2024-06-10 18:23:19,111 [main] INFO BaseClass - Password is set
+2024-06-10 18:23:19,501 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:24:15,793 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:24:15,849 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:24:21,020 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:24:21,119 [main] INFO BaseClass - User name is set
+2024-06-10 18:24:21,195 [main] INFO BaseClass - Password is set
+2024-06-10 18:24:22,304 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:24:22,312 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 18:28:41,362 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:28:41,414 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:28:45,796 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:28:45,905 [main] INFO BaseClass - User name is set
+2024-06-10 18:28:45,969 [main] INFO BaseClass - Password is set
+2024-06-10 18:28:47,201 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:28:47,208 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 18:29:19,549 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:29:19,593 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:29:24,239 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:29:24,327 [main] INFO BaseClass - User name is set
+2024-06-10 18:29:24,392 [main] INFO BaseClass - Password is set
+2024-06-10 18:29:25,551 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:29:25,557 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 18:30:33,095 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:30:33,121 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:30:38,112 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:30:38,202 [main] INFO BaseClass - User name is set
+2024-06-10 18:30:38,262 [main] INFO BaseClass - Password is set
+2024-06-10 18:30:39,561 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:30:39,569 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 18:31:19,824 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:31:19,858 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:31:23,883 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:31:23,974 [main] INFO BaseClass - User name is set
+2024-06-10 18:31:24,036 [main] INFO BaseClass - Password is set
+2024-06-10 18:31:25,507 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:31:25,513 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 18:31:53,201 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 18:31:53,242 [main] INFO BaseClass - Browser window maximised
+2024-06-10 18:31:54,693 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 18:31:59,111 [main] INFO BaseClass - User name is set
+2024-06-10 18:31:59,178 [main] INFO BaseClass - Password is set
+2024-06-10 18:32:00,334 [main] INFO BaseClass - Clicked on login button
+2024-06-10 18:32:00,339 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 19:26:00,591 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 19:26:00,638 [main] INFO BaseClass - Browser window maximised
+2024-06-10 19:26:04,634 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 19:26:04,735 [main] INFO BaseClass - User name is set
+2024-06-10 19:26:04,796 [main] INFO BaseClass - Password is set
+2024-06-10 19:26:06,119 [main] INFO BaseClass - Clicked on login button
+2024-06-10 19:26:06,125 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 19:26:17,963 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 19:26:17,991 [main] INFO BaseClass - Browser window maximised
+2024-06-10 19:26:18,981 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 19:26:21,506 [main] INFO BaseClass - User name is set
+2024-06-10 19:26:21,563 [main] INFO BaseClass - Password is set
+2024-06-10 19:26:22,847 [main] INFO BaseClass - Clicked on login button
+2024-06-10 19:26:22,853 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 21:21:43,399 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 21:21:43,454 [main] INFO BaseClass - Browser window maximised
+2024-06-10 21:21:47,475 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 21:21:47,575 [main] INFO BaseClass - User name is set
+2024-06-10 21:21:47,645 [main] INFO BaseClass - Password is set
+2024-06-10 21:21:48,868 [main] INFO BaseClass - Clicked on login button
+2024-06-10 21:21:48,876 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 21:59:21,443 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 21:59:21,492 [main] INFO BaseClass - Browser window maximised
+2024-06-10 21:59:23,099 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 21:59:27,370 [main] INFO BaseClass - User name is set
+2024-06-10 21:59:27,433 [main] INFO BaseClass - Password is set
+2024-06-10 21:59:29,440 [main] INFO BaseClass - Clicked on login button
+2024-06-10 21:59:29,446 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 22:02:42,301 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 22:02:42,331 [main] INFO BaseClass - Browser window maximised
+2024-06-10 22:02:47,325 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 22:02:47,417 [main] INFO BaseClass - User name is set
+2024-06-10 22:02:47,481 [main] INFO BaseClass - Password is set
+2024-06-10 22:02:49,552 [main] INFO BaseClass - Clicked on login button
+2024-06-10 22:02:49,558 [main] INFO BaseClass - User is able to login successfully.
+2024-06-10 22:15:41,417 [main] INFO BaseClass - Chrome browser opened
+2024-06-10 22:15:41,467 [main] INFO BaseClass - Browser window maximised
+2024-06-10 22:15:46,520 [main] INFO BaseClass - Opened url https://demo.guru99.com/v4/
+2024-06-10 22:15:46,638 [main] INFO BaseClass - User name is set
+2024-06-10 22:15:46,701 [main] INFO BaseClass - Password is set
+2024-06-10 22:15:47,992 [main] INFO BaseClass - Clicked on login button
+2024-06-10 22:15:47,998 [main] INFO BaseClass - User is able to login successfully.
