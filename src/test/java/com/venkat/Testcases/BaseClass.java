@@ -1,5 +1,8 @@
 package com.venkat.Testcases;
 
+import java.time.Duration;
+import java.util.concurrent.TimeUnit;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -50,9 +53,13 @@ public class BaseClass {
 		}
 		
 		driver.manage().window().maximize();
-		logger.info("Browser window maximised");
+		logger.info("Browser window maximized.");
+		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
+		logger.info("Implicit time out is set.");
+		driver.manage().timeouts().pageLoadTimeout(10,TimeUnit.SECONDS);
+		logger.info("Page load time out is set.");
 		driver.get(baseUrl);
-		logger.info("Opened url "+ baseUrl);
+		logger.info("Opened url "+ baseUrl+"  successfully.");
 	}
 	
 	@AfterTest
